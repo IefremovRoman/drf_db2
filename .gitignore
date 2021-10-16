@@ -133,5 +133,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+#Django stuff
+migrations/
+
 # Documents
 feature-list.txt

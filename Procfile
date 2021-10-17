@@ -1,1 +1,1 @@
-web: waitress db2.wsgi --log-file-
+web: gunicorn db2.wsgi:application --log-level debug

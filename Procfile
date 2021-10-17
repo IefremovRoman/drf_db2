@@ -1,0 +1,1 @@
+web: waitress django_efremov.wsgi --log-file-

@@ -1,1 +1,1 @@
-web: waitress django_efremov.wsgi --log-file-
+web: waitress db2.wsgi --log-file-
